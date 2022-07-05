@@ -1,17 +1,22 @@
+*{
+  color: #fff;
+}
 body{
   padding: 20px;
-  text-align: center;
   background-color: #21232A;
 }
 h1{
   color: aqua;
+  text-align: center;
 }
 h3{
-  color: #fff;
   display: inline;
 }
 .title{
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+button{
+  margin: 10px;
 }
